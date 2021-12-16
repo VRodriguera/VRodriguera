@@ -4,7 +4,7 @@
   
 💻 I'm a web development student at [Trybe](https://www.betrybe.com/) School. 
 </br>  
-⌨️I'm currently learning Back-End. 
+⌨️I'm currently learning Computer Science. 
 </br>  
 🤓 Furthermore, I have degree in IT - CD6 Desenvolvimento de Pessoas e Negócios . 
 </br>  
