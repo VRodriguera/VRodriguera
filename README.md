@@ -2,9 +2,9 @@
   
 ## 👨‍💻 Who am I?  
   
-💻 I'm a web development student at [Trybe](https://www.betrybe.com/) School. 
+💻 I'm a fullstack developer with focus in front-end. 
 </br>  
-⌨️I'm currently learning Computer Science. 
+⌨️ I have degree in web development - Trybe. 
 </br>  
 🤓 Furthermore, I have degree in IT - CD6 Desenvolvimento de Pessoas e Negócios . 
 </br>  
